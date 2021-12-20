@@ -7,7 +7,9 @@
 
 - 🌱 I’m currently learning **ReactJS and UX/UI**
 
-- 👨‍💻 All of my projects are available at [https://rawaaa.github.io/](https://rawaaa.github.io/)
+- 👨‍💻 All of my projects are available at [https://dorsafguesmi.github.io/Portfolio/?fbclid=IwAR0Uf5z1e9akDVuFMAqoqUKIn6eoOJL7Y62EHVm2b8RLuV3ZMD1XMAbv_9o](https://dorsafguesmi.github.io/Portfolio/?fbclid=IwAR0Uf5z1e9akDVuFMAqoqUKIn6eoOJL7Y62EHVm2b8RLuV3ZMD1XMAbv_9o)
+
+- 💬 Ask me about **JAVA,JEE,design**
 
 - 📫 How to reach me **rawaaguesmi9@gmail.com**
 
