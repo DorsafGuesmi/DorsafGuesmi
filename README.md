@@ -7,11 +7,13 @@
 
 - 🌱 I’m currently learning **ReactJS and UX/UI**
 
-- 👨‍💻 All of my projects are available at [https://dorsafguesmi.github.io/Portfolio/?fbclid=IwAR0Uf5z1e9akDVuFMAqoqUKIn6eoOJL7Y62EHVm2b8RLuV3ZMD1XMAbv_9o](https://dorsafguesmi.github.io/Portfolio/?fbclid=IwAR0Uf5z1e9akDVuFMAqoqUKIn6eoOJL7Y62EHVm2b8RLuV3ZMD1XMAbv_9o)
+- 👨‍💻 All of my projects are available at [https://dorsafguesmi.github.io/Portfolio/](https://dorsafguesmi.github.io/Portfolio/)
 
 - 💬 Ask me about **JAVA,JEE,design**
 
 - 📫 How to reach me **rawaaguesmi9@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/DorsafGuesmi/My-resume/blob/main/CV.pdf](https://github.com/DorsafGuesmi/My-resume/blob/main/CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,3 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dorsafguesmi&show_icons=true&locale=en" alt="dorsafguesmi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dorsafguesmi&" alt="dorsafguesmi" /></p>
+
