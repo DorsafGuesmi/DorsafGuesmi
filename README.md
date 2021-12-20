@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dorsaf Guesmi</h1>
-<h3 align="center">A passionate frontend developer from Tunisia</h3>
+<h3 align="center">I'm passionate about creating and developing clean, unique, elegant products. I specialize in building Websites for small to medium size business. I keep my code clean, readable, modular and well refactored. I enjoy working with complex user interfacesfrom Tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dorsafguesmi&label=Profile%20views&color=0e75b6&style=flat" alt="dorsafguesmi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dorsafguesmi" alt="dorsafguesmi" /></a> </p>
+
+- 🌱 I’m currently learning **ReactJS and UX/UI**
+
+- 👨‍💻 All of my projects are available at [https://rawaaa.github.io/](https://rawaaa.github.io/)
+
+- 📫 How to reach me **rawaaguesmi9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dorsafguesmi&show_icons=true&locale=en" alt="dorsafguesmi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dorsafguesmi&" alt="dorsafguesmi" /></p>
+
