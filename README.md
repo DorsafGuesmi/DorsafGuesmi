@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/rawaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rawaaa" height="30" width="40" /></a>
+<a href="https://codepen.io/@rawaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@rawaaa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dorsaf guesmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dorsaf guesmi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/dorsaf guesmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dorsaf guesmi" height="30" width="40" /></a>
-<a href="https://fb.com/rawaa guesmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rawaa guesmi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/8755266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8755266" height="30" width="40" /></a>
+<a href="https://fb.com/100032144852955" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100032144852955" height="30" width="40" /></a>
 <a href="https://dribbble.com/dorsafff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dorsafff" height="30" width="40" /></a>
 <a href="https://discord.gg/Dorsaf#9518" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Dorsaf#9518" height="30" width="40" /></a>
 </p>
@@ -29,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dorsafguesmi&show_icons=true&locale=en" alt="dorsafguesmi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dorsafguesmi&" alt="dorsafguesmi" /></p>
-
